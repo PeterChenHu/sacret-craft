@@ -1,0 +1,107 @@
+/* Mobile Viewport Fixes for Sacred Craft Marketplace */
+
+/* Global mobile viewport fixes */
+@media (max-width: 768px) {
+  /* Prevent horizontal overflow */
+  html, body {
+    overflow-x: hidden !important;
+    width: 100% !important;
+    max-width: 100vw !important;
+    position: relative !important;
+  }
+
+  /* Root container fixes */
+  #root {
+    overflow-x: hidden !important;
+    width: 100% !important;
+    max-width: 100vw !important;
+    position: relative !important;
+  }
+
+  /* All direct children of root */
+  #root > * {
+    max-width: 100vw !important;
+    overflow-x: hidden !important;
+  }
+
+  /* Container fixes */
+  .container, .container-fluid, .container-sm, .container-md, .container-lg, .container-xl {
+    max-width: 100vw !important;
+    padding-left: 1rem !important;
+    padding-right: 1rem !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    overflow-x: hidden !important;
+  }
+
+  /* Prevent negative margins */
+  * {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  }
+
+  /* Fix any potential width issues */
+  div, section, article, aside, header, footer, main, nav {
+    max-width: 100vw !important;
+    overflow-x: hidden !important;
+  }
+
+  /* Ensure images don't overflow */
+  img {
+    max-width: 100% !important;
+    height: auto !important;
+  }
+
+  /* Fix table overflow */
+  table {
+    max-width: 100vw !important;
+    overflow-x: auto !important;
+  }
+
+  /* Fix form elements */
+  input, textarea, select, button {
+    max-width: 100% !important;
+    box-sizing: border-box !important;
+  }
+
+  /* Fix flexbox issues */
+  .flex, .flex-col, .flex-row {
+    max-width: 100vw !important;
+    overflow-x: hidden !important;
+  }
+
+  /* Fix grid issues */
+  .grid {
+    max-width: 100vw !important;
+    overflow-x: hidden !important;
+  }
+
+  /* Fix any absolute positioned elements */
+  [class*="absolute"], [class*="fixed"] {
+    max-width: 100vw !important;
+  }
+}
+
+/* Extra small devices */
+@media (max-width: 480px) {
+  html, body, #root {
+    overflow-x: hidden !important;
+    width: 100% !important;
+    max-width: 100vw !important;
+  }
+  
+  /* Ensure padding doesn't cause overflow */
+  .p-4, .p-6, .p-8, .px-4, .px-6, .px-8 {
+    padding-left: 1rem !important;
+    padding-right: 1rem !important;
+  }
+}
+
+/* Landscape orientation fixes */
+@media (max-width: 768px) and (orientation: landscape) {
+  html, body, #root {
+    overflow-x: hidden !important;
+    width: 100% !important;
+    max-width: 100vw !important;
+  }
+}

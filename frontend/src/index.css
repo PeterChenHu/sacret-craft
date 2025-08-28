@@ -1,4 +1,5 @@
 @import "tailwindcss";
+@import "./mobile-fixes.css";
 
 :root {
   font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
@@ -122,6 +123,50 @@
 body {
   color: hsl(var(--foreground));
   background: hsl(var(--background));
+}
+
+/* Mobile Viewport Fixes */
+html, body {
+  overflow-x: hidden;
+  width: 100%;
+  max-width: 100vw;
+  position: relative;
+}
+
+#root {
+  overflow-x: hidden;
+  width: 100%;
+  max-width: 100vw;
+  position: relative;
+}
+
+/* Prevent horizontal scrolling on mobile */
+@media (max-width: 768px) {
+  html, body {
+    overflow-x: hidden;
+    -webkit-overflow-scrolling: touch;
+  }
+  
+  #root {
+    overflow-x: hidden;
+    width: 100%;
+    max-width: 100vw;
+  }
+  
+  /* Ensure all containers respect viewport width */
+  .container, .container-fluid {
+    max-width: 100vw;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  /* Fix any potential negative margins */
+  * {
+    margin-left: 0;
+    margin-right: 0;
+  }
 }
 
 @layer base {
