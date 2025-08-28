@@ -1,0 +1,34 @@
+{% extends "admin/base.html" %}
+{% load i18n %}
+
+{% block title %}{{ title }} | {{ site_title|default:_('Django site admin') }}{% endblock %}
+
+{% block branding %}
+<h1 id="site-name">
+    <a href="{% url 'admin:index' %}">
+        {% if LANGUAGE_CODE == 'zh-hans' %}
+            神圣工艺市场管理后台
+        {% else %}
+            Sacred Craft Marketplace Admin
+        {% endif %}
+    </a>
+</h1>
+{% endblock %}
+
+{% block nav-global %}
+<div style="float: right; margin: 10px 0;">
+    <span style="margin-right: 10px;">
+        {% if LANGUAGE_CODE == 'zh-hans' %}
+            当前语言: 中文
+        {% else %}
+            Current Language: English
+        {% endif %}
+    </span>
+    <a href="{% url 'switch_language' 'en' %}" style="margin-right: 10px; padding: 5px 10px; background: #79aec8; color: white; text-decoration: none; border-radius: 3px;">
+        English
+    </a>
+    <a href="{% url 'switch_language' 'zh-hans' %}" style="padding: 5px 10px; background: #79aec8; color: white; text-decoration: none; border-radius: 3px;">
+        中文
+    </a>
+</div>
+{% endblock %}

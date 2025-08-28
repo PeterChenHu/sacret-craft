@@ -1,0 +1,39 @@
+# Production requirements for Sacred Craft Marketplace
+# Install with: pip install -r requirements.prod.txt
+
+# Core Django
+Django>=4.2.0,<5.0.0
+djangorestframework>=3.14.0,<4.0.0
+django-cors-headers>=4.0.0,<5.0.0
+django-filter>=23.0,<24.0
+
+# Database
+psycopg2-binary>=2.9.0,<3.0.0
+
+# Production server
+gunicorn>=21.0.0,<22.0.0
+whitenoise>=6.5.0,<7.0.0
+
+# Security
+django-axes>=6.0.0,<7.0.0
+django-ratelimit>=4.0.0,<5.0.0
+
+# Caching
+redis>=4.5.0,<5.0.0
+django-redis>=5.3.0,<6.0.0
+
+# Image processing
+Pillow>=10.0.0,<11.0.0
+
+# Environment variables
+python-dotenv>=1.0.0,<2.0.0
+
+# Monitoring and logging
+sentry-sdk[django]>=1.30.0,<2.0.0
+
+# Performance
+django-debug-toolbar>=4.0.0,<5.0.0  # Only for development debugging
+
+# Development tools (remove in production)
+# django-extensions>=3.2.0,<4.0.0
+# ipython>=8.0.0,<9.0.0

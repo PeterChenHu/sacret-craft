@@ -1,0 +1,819 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "view": "View",
+    "close": "Close",
+    "back": "Back",
+    "next": "Next",
+    "submit": "Submit",
+    "search": "Search",
+    "all": "All",
+    "yes": "Yes",
+    "no": "No",
+    "ok": "OK",
+    "continue": "Continue",
+    "retry": "Retry",
+    "refresh": "Refresh",
+    "select": "Select",
+    "clear": "Clear",
+    "remove": "Remove",
+    "add": "Add",
+    "create": "Create",
+    "update": "Update",
+    "change": "Change",
+    "show": "Show",
+    "hide": "Hide",
+    "open": "Open",
+    "start": "Start",
+    "stop": "Stop",
+    "help": "Help",
+    "contact": "Contact",
+    "about": "About",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "settings": "Settings",
+    "profile": "Profile",
+    "account": "Account",
+    "user": "User",
+    "admin": "Admin",
+    "customer": "Customer",
+    "team": "Team",
+    "company": "Company",
+    "business": "Business",
+    "store": "Store",
+    "shop": "Shop",
+    "marketplace": "Marketplace",
+    "website": "Website",
+    "page": "Page",
+    "content": "Content",
+    "text": "Text",
+    "image": "Image",
+    "photo": "Photo",
+    "video": "Video",
+    "file": "File",
+    "document": "Document"
+  },
+  "navigation": {
+    "home": "Home",
+    "products": "Products",
+    "about": "About Us",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "cart": "Cart",
+    "checkout": "Checkout",
+    "login": "Sign In",
+    "register": "Register",
+    "dashboard": "Dashboard",
+    "profile": "Profile",
+    "settings": "Settings",
+    "logout": "Log Out",
+    "search": "Search",
+    "menu": "Menu"
+  },
+  "header": {
+    "brand": "Sacred Crafts",
+    "tagline": "Handcrafted with Faith & Devotion",
+    "signIn": "Sign In",
+    "register": "Register",
+    "welcome": "Welcome",
+    "dashboard": "Dashboard",
+    "wishlist": "Wishlist",
+    "settings": "Settings",
+    "logOut": "Log out"
+  },
+  "landing": {
+    "hero": {
+      "title": "Sacred Crafts",
+      "subtitle": "Handcrafted with Faith & Devotion",
+      "description": "Discover our collection of beautiful wooden religious art pieces, each lovingly crafted to inspire faith and bring peace to your home.",
+      "shopButton": "Shop Collection",
+      "storyButton": "Our Story"
+    },
+    "features": {
+      "handcrafted": {
+        "title": "Handcrafted with Love",
+        "description": "Each piece is carefully crafted by skilled artisans with devotion and attention to detail."
+      },
+      "quality": {
+        "title": "Quality Guaranteed",
+        "description": "Premium wood materials and traditional techniques ensure lasting beauty and durability."
+      },
+      "blessed": {
+        "title": "Blessed Creations",
+        "description": "Every piece is blessed and created with prayer, bringing spiritual significance to your space."
+      },
+      "delivery": {
+        "title": "Safe Delivery",
+        "description": "Carefully packaged and shipped with care to ensure your sacred art arrives safely."
+      }
+    },
+    "featured": {
+      "title": "Featured Collection",
+      "subtitle": "Discover our most beloved pieces, each telling a unique story of faith and craftsmanship.",
+      "viewDetails": "View Details",
+      "viewAll": "View All Products"
+    },
+    "cta": {
+      "title": "Bring Sacred Beauty to Your Home",
+      "description": "Each piece in our collection is more than art—it's a testament to faith, crafted with prayer and dedication to inspire your spiritual journey.",
+      "button": "Start Shopping"
+    }
+  },
+  "about": {
+    "loading": "Loading our story...",
+    "hero": {
+      "title": "Our Sacred Story",
+      "subtitle": "Four Decades of Faith & Craftsmanship",
+      "description": "Since 1985, Sacred Crafts has been creating beautiful wooden religious art pieces that inspire faith and bring peace to homes and hearts around the world."
+    },
+    "mission": {
+      "title": "Our Mission",
+      "description": "To create beautiful, meaningful religious art that deepens faith, inspires devotion, and brings the sacred into everyday life. Each piece we craft is a prayer made tangible, a testament to the enduring power of faith and the beauty of traditional craftsmanship.",
+      "button": "Explore Our Collection"
+    },
+    "values": {
+      "title": "Our Values",
+      "subtitle": "The principles that guide every aspect of our work and define who we are as artisans and people of faith.",
+      "faith": {
+        "title": "Faith & Devotion",
+        "description": "Every piece is created with prayer and blessed with love, bringing spiritual significance to your sacred space."
+      },
+      "craftsmanship": {
+        "title": "Master Craftsmanship",
+        "description": "Our skilled artisans use traditional techniques passed down through generations to create timeless pieces."
+      },
+      "quality": {
+        "title": "Quality Excellence",
+        "description": "We use only the finest materials and maintain the highest standards in every aspect of our work."
+      },
+      "community": {
+        "title": "Community Impact",
+        "description": "We support local artisans and contribute to charitable causes that strengthen our faith community."
+      }
+    },
+    "journey": {
+      "title": "Our Journey",
+      "subtitle": "From humble beginnings to serving families nationwide, our story is one of faith, dedication, and growth.",
+      "milestones": {
+        "1985": {
+          "title": "Humble Beginnings",
+          "description": "Founded by Master Antonio Rodriguez in his small workshop, creating pieces for the local parish."
+        },
+        "1995": {
+          "title": "Growing Recognition",
+          "description": "Our work gained recognition throughout the region, with churches commissioning custom pieces."
+        },
+        "2005": {
+          "title": "Expanding the Team",
+          "description": "Welcomed Sister Maria Catherine and other skilled artisans to meet growing demand."
+        },
+        "2015": {
+          "title": "National Reach",
+          "description": "Launched our online presence, bringing sacred art to families across the country."
+        },
+        "2024": {
+          "title": "Continuing Legacy",
+          "description": "Today, we continue to honor tradition while embracing new ways to serve the faithful."
+        }
+      }
+    },
+    "artisans": {
+      "title": "Meet Our Artisans",
+      "subtitle": "The skilled hands and faithful hearts behind every piece in our collection.",
+      "antonio": {
+        "name": "Master Antonio Rodriguez",
+        "role": "Lead Craftsman",
+        "experience": "35 years",
+        "specialty": "Crucifixes & Religious Sculptures",
+        "description": "Antonio has dedicated his life to creating sacred art, learning traditional techniques passed down through generations of his family."
+      },
+      "maria": {
+        "name": "Sister Maria Catherine",
+        "role": "Design Consultant",
+        "experience": "20 years",
+        "specialty": "Rosaries & Prayer Beads",
+        "description": "Sister Maria brings deep spiritual insight to our designs, ensuring each piece reflects authentic Catholic tradition and devotion."
+      },
+      "michael": {
+        "name": "Michael Thompson",
+        "role": "Wood Specialist",
+        "experience": "15 years",
+        "specialty": "Wood Selection & Finishing",
+        "description": "Michael's expertise in wood selection and finishing ensures that every piece not only looks beautiful but will last for generations."
+      }
+    },
+    "quality": {
+      "title": "Our Quality Promise",
+      "materials": {
+        "title": "Premium Materials",
+        "description": "We source only the finest hardwoods, carefully selected for their beauty and durability."
+      },
+      "techniques": {
+        "title": "Traditional Techniques",
+        "description": "Our methods honor centuries-old traditions while incorporating modern quality standards."
+      },
+      "blessed": {
+        "title": "Blessed Creations",
+        "description": "Every piece is blessed and created with prayer, adding spiritual significance to its beauty."
+      },
+      "guarantee": {
+        "title": "Lifetime Guarantee",
+        "description": "We stand behind our work with a comprehensive guarantee on craftsmanship and materials."
+      }
+    },
+    "cta": {
+      "title": "Become Part of Our Story",
+      "description": "When you choose Sacred Crafts, you're not just purchasing art—you're joining a community of faith, supporting traditional craftsmanship, and bringing sacred beauty into your home.",
+      "shopButton": "Shop Our Collection",
+      "contactButton": "Contact Us"
+    }
+  },
+  "auth": {
+    "login": {
+      "title": "Welcome Back",
+      "subtitle": "Sign in to your Sacred Crafts account to access your orders, wishlist, and personalized recommendations.",
+      "formTitle": "Sign In",
+      "formSubtitle": "Enter your credentials to access your account",
+      "email": "Email Address",
+      "password": "Password",
+      "rememberMe": "Remember me",
+      "forgotPassword": "Forgot password?",
+      "signInButton": "Sign In",
+      "signingIn": "Signing In...",
+      "noAccount": "Don't have an account?",
+      "createAccount": "Create one here",
+      "dontHaveAccount": "Don't have an account?",
+      "createAccountHere": "Create one here",
+      "termsOfServiceAndPrivacyPolicy": "By signing in, you agree to our Terms of Service and Privacy Policy",
+      "googleButton": "Continue with Google",
+      "facebookButton": "Continue with Facebook",
+      "orContinueWith": "Or continue with email"
+    },
+    "forgotPassword": {
+      "title": "Reset Your Password",
+      "subtitle": "Enter your email address and we'll send you a link to reset your password.",
+      "formTitle": "Forgot Password",
+      "formSubtitle": "Enter your email to receive reset instructions",
+      "email": "Email Address",
+      "emailPlaceholder": "Enter your email address",
+      "sendButton": "Send Reset Link",
+      "sending": "Sending...",
+      "backToLogin": "Back to Sign In",
+      "successTitle": "Check Your Email",
+      "successSubtitle": "We've sent you a password reset link",
+      "successMessage": "We've sent a password reset link to",
+      "successInstructions": "Please check your email and click the link to reset your password.",
+      "resendEmail": "Resend Email",
+      "errorMessage": "Failed to send reset email. Please try again.",
+      "needHelp": "Need help? Contact our support team",
+      "helpCenter": "Help Center",
+      "contactSupport": "Contact Support"
+    },
+    "register": {
+      "title": "Join Our Community",
+      "subtitle": "Create your Sacred Crafts account to access exclusive products, track orders, and join our faithful community.",
+      "formTitle": "Create Account",
+      "formSubtitle": "Join our community of faith and craftsmanship",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "password": "Password",
+      "confirmPassword": "Confirm Password",
+      "agreeToTerms": "I agree to the terms and conditions",
+      "termsOfServiceAndPrivacyPolicy": "Terms of Service and Privacy Policy",
+      "subscribeNewsletter": "Subscribe to our newsletter for updates and special offers",
+      "createAccountButton": "Create Account",
+      "creatingAccount": "Creating Account...",
+      "alreadyHaveAccount": "Already have an account?",
+      "signInHere": "Sign in here",
+      "googleButton": "Sign up with Google",
+      "facebookButton": "Sign up with Facebook",
+      "orCreateWith": "Or create account with email"
+    }
+  },
+  "cart": {
+    "title": "Shopping Cart",
+    "subtitle": "Review your items and proceed to checkout",
+    "empty": {
+      "title": "Your Cart is Empty",
+      "description": "Discover our beautiful collection of handcrafted religious art pieces.",
+      "button": "Continue Shopping"
+    },
+    "item": {
+      "quantity": "Quantity",
+      "total": "Total",
+      "remove": "Remove",
+      "updateQuantity": "Update quantity"
+    },
+    "summary": {
+      "title": "Order Summary",
+      "subtotal": "Subtotal",
+      "items": "items",
+      "savings": "Savings",
+      "shipping": "Shipping",
+      "tax": "Tax",
+      "total": "Total",
+      "freeShipping": "FREE",
+      "proceedToCheckout": "Proceed to Checkout",
+      "continueShopping": "Continue Shopping"
+    },
+    "shipping": {
+      "freeShippingThreshold": "Add {{amount}} more for FREE shipping!",
+      "guarantees": {
+        "title": "Our Promise",
+        "quality": "Quality guaranteed or money back",
+        "packaging": "Secure packaging & safe delivery",
+        "blessed": "Blessed with prayer & devotion"
+      }
+    }
+  },
+  "products": {
+    "title": "Our Sacred Collection",
+    "subtitle": "Discover handcrafted wooden religious art pieces, each created with devotion and blessed with prayer.",
+    "description": "Handcrafted with devotion and attention to detail, this beautiful piece brings sacred beauty to any space.",
+    "showing": "Showing {{count}} products",
+    "sort": {
+      "featured": "Featured",
+      "priceLow": "Price: Low to High",
+      "priceHigh": "Price: High to Low",
+      "newest": "Newest First",
+      "rating": "Highest Rated"
+    },
+    "addToCart": "Add to Cart",
+    "addingToCart": "Adding...",
+    "addedToCart": "Added to Cart!",
+    "viewDetails": "View Details",
+    "reviews": "{{count}} reviews",
+    "sale": "Sale",
+    "bestseller": "Bestseller",
+    "new": "New",
+    "featured": "Featured"
+  },
+  "productDetails": {
+    "reviews": "{{count}} reviews",
+    "save": "Save ${{amount}}",
+    "keyFeatures": "Key Features",
+    "quantity": "Quantity",
+    "addToCart": "Add to Cart",
+    "addingToCart": "Adding...",
+    "addedToCart": "Added to Cart!",
+    "guarantees": {
+      "freeShipping": "Free shipping over $75",
+      "qualityGuaranteed": "Quality guaranteed",
+      "returns": "30-day returns",
+      "blessedCertified": "Blessed & certified"
+    },
+    "tabs": {
+      "description": "Description",
+      "specifications": "Specifications",
+      "reviews": "Reviews"
+    }
+  },
+  "checkout": {
+    "title": "Secure Checkout",
+    "subtitle": "Complete your sacred art collection",
+    "sslSecured": "SSL Secured",
+    "steps": {
+      "shipping": "Shipping",
+      "payment": "Payment",
+      "review": "Review"
+    },
+    "shipping": {
+      "title": "Shipping Information"
+    },
+    "form": {
+      "firstName": "First Name",
+      "firstNamePlaceholder": "John",
+      "lastName": "Last Name",
+      "lastNamePlaceholder": "Doe",
+      "email": "Email Address",
+      "emailPlaceholder": "john@example.com",
+      "phone": "Phone Number",
+      "phonePlaceholder": "(555) 123-4567",
+      "address": "Street Address",
+      "addressPlaceholder": "123 Main Street",
+      "city": "City",
+      "cityPlaceholder": "New York",
+      "state": "State",
+      "statePlaceholder": "Select state",
+      "zipCode": "ZIP Code",
+      "zipCodePlaceholder": "10001",
+      "notes": "Special Instructions (Optional)",
+      "notesPlaceholder": "Any special delivery instructions or notes about your order..."
+    },
+    "processing": "Processing...",
+    "continueToPayment": "Continue to Payment",
+    "billing": {
+      "title": "Billing Address",
+      "sameAsShipping": "Same as shipping address"
+    },
+    "payment": {
+      "title": "Payment Method",
+      "creditCard": "Credit/Debit Card",
+      "paypal": "PayPal",
+      "wechatPay": "WeChat Pay",
+      "wechatPayInfo": "Complete your payment using WeChat. You'll be redirected to WeChat to authorize the payment.",
+      "bankTransfer": "Bank Transfer",
+      "bankTransferInfo": "Complete your payment via bank transfer. You'll receive instructions after order confirmation.",
+      "paypalInfo": "Complete your payment using PayPal. You'll be redirected to PayPal to authorize the payment.",
+      "secureProcessing": "Secure payment processing",
+      "instantConfirmation": "Instant payment confirmation",
+      "noAdditionalFees": "No additional fees",
+      "buyerProtection": "Buyer protection included",
+      "cardNumber": "Card Number",
+      "cardNumberPlaceholder": "1234 5678 9012 3456",
+      "expiryDate": "Expiry Date",
+      "expiryDatePlaceholder": "MM/YY",
+      "cvv": "CVV",
+      "cvvPlaceholder": "123",
+      "nameOnCard": "Name on Card",
+      "nameOnCardPlaceholder": "John Doe",
+      "secureMessage": "Your payment information is encrypted and secure"
+    },
+    "back": "Back",
+    "reviewOrder": "Review Order",
+    "review": {
+      "title": "Review Your Order",
+      "shippingAddress": "Shipping Address",
+      "termsAgreement": "I agree to the",
+      "termsOfService": "Terms of Service",
+      "and": "and",
+      "privacyPolicy": "Privacy Policy"
+    },
+    "completingOrder": "Completing Order...",
+    "completeOrder": "Complete Order",
+    "summary": {
+      "title": "Order Summary",
+      "subtotal": "Subtotal",
+      "shipping": "Shipping",
+      "free": "FREE",
+      "tax": "Tax",
+      "total": "Total"
+    },
+    "security": {
+      "title": "Secure Checkout",
+      "description": "Your information is protected with SSL encryption"
+    },
+    "emptyCartMessage": "Please add some items to your cart before proceeding to checkout."
+  },
+  "orderConfirmation": {
+    "title": "Order Confirmed!",
+    "subtitle": "Thank you for your order. Your sacred art pieces will be carefully crafted and shipped with love.",
+    "orderNumber": "Order #{{number}}",
+    "orderDate": "Order Date",
+    "estimatedDelivery": "Estimated Delivery",
+    "status": "Status",
+    "emailSent": "A confirmation email has been sent to your email address.",
+    "continueShopping": "Continue Shopping",
+    "returnHome": "Return Home",
+    "orderDetails": "Order Details",
+    "shippingAddress": "Shipping Address",
+    "paymentMethod": "Payment Method",
+    "orderSummary": "Order Summary",
+    "subtotal": "Subtotal",
+    "shipping": "Shipping",
+    "tax": "Tax",
+    "total": "Total",
+    "free": "FREE",
+    "recommendedProducts": "You might also like",
+    "viewAllProducts": "View All Products"
+  },
+  "dashboard": {
+    "welcome": "Welcome back, {{name}}!",
+    "memberSince": "Member since {{date}}",
+    "logout": "Log Out",
+    "tabs": {
+      "overview": "Overview",
+      "orders": "Orders",
+      "addresses": "Addresses",
+      "wishlist": "Wishlist",
+      "settings": "Settings"
+    },
+    "stats": {
+      "totalOrders": "Total Orders",
+      "wishlistItems": "Wishlist Items",
+      "savedAddresses": "Saved Addresses"
+    },
+    "recentOrders": {
+      "title": "Recent Orders",
+      "description": "Your latest purchases from Sacred Crafts",
+      "items": "items",
+      "viewAll": "View All Orders"
+    },
+    "orders": {
+      "title": "Order History",
+      "description": "Track and manage all your Sacred Crafts orders",
+      "placedOn": "Placed on {{date}}",
+      "items": "items",
+      "viewDetails": "View Details",
+      "invoice": "Invoice",
+      "noOrders": "No orders yet",
+      "noOrdersDescription": "Start shopping to see your orders here"
+    },
+    "addresses": {
+      "title": "Saved Addresses",
+      "description": "Manage your shipping and billing addresses",
+      "addNew": "Add New Address",
+      "default": "Default",
+      "noAddresses": "No addresses saved",
+      "noAddressesDescription": "Add your first address to get started"
+    },
+    "wishlist": {
+      "title": "My Wishlist",
+      "description": "Save your favorite items for later",
+      "outOfStock": "Out of Stock",
+      "addToCart": "Add to Cart",
+      "notifyWhenAvailable": "Notify When Available",
+      "empty": {
+        "title": "Your wishlist is empty",
+        "description": "Save items you love to purchase later",
+        "browseProducts": "Browse Products"
+      }
+    },
+    "settings": {
+      "accountInfo": {
+        "title": "Account Information",
+        "description": "Update your personal information and preferences"
+      },
+      "personalDetails": "Personal Details",
+      "edit": "Edit",
+      "cancel": "Cancel",
+      "saveChanges": "Save Changes",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "security": {
+        "title": "Security",
+        "description": "Manage your account security settings",
+        "password": "Password",
+        "lastUpdated": "Last updated 3 months ago",
+                 "changePassword": "Change Password",
+         "changePasswordModal": {
+           "title": "Change Password",
+           "currentPassword": "Current Password",
+           "newPassword": "New Password",
+           "confirmPassword": "Confirm New Password",
+           "currentPasswordPlaceholder": "Enter current password",
+           "newPasswordPlaceholder": "Enter new password",
+           "confirmPasswordPlaceholder": "Confirm new password",
+           "changeButton": "Change Password",
+           "changing": "Changing...",
+           "cancel": "Cancel",
+           "allFieldsRequired": "All fields are required",
+           "passwordsNotMatch": "New passwords do not match",
+           "passwordTooShort": "New password must be at least 8 characters long",
+           "changeSuccess": "Password changed successfully!",
+                       "changeError": "Failed to change password. Please try again.",
+            "currentPasswordIncorrect": "Current password is incorrect",
+            "passwordRequirementsNotMet": "New password does not meet requirements",
+            "bothPasswordsRequired": "Both current and new passwords are required"
+         },
+         "twoFactor": "Two-Factor Authentication",
+         "twoFactorDescription": "Add an extra layer of security",
+         "enable2FA": "Enable 2FA"
+      }
+    }
+  },
+  "footer": {
+    "about": "About Sacred Crafts",
+    "description": "Handcrafted religious art pieces created with devotion and prayer.",
+    "quickLinks": "Quick Links",
+    "customerService": "Customer Service",
+    "contact": "Contact Us",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "copyright": "© 2024 Sacred Crafts. All rights reserved."
+  },
+  "errors": {
+    "general": "Something went wrong",
+    "network": "Network error. Please check your connection.",
+    "unauthorized": "You are not authorized to perform this action.",
+    "forbidden": "Access denied.",
+    "notFound": "The requested resource was not found.",
+    "validation": "Please check your input and try again.",
+    "server": "Server error. Please try again later.",
+    "unknown": "An unexpected error occurred.",
+    "login": {
+      "invalidCredentials": "Invalid email or password",
+      "accountLocked": "Account is locked. Please contact support.",
+      "tooManyAttempts": "Too many login attempts. Please try again later."
+    },
+    "register": {
+      "emailExists": "An account with this email already exists",
+      "weakPassword": "Password is too weak",
+      "passwordsNotMatch": "Passwords do not match"
+    }
+  },
+  "success": {
+    "login": "Successfully logged in",
+    "register": "Account created successfully",
+    "logout": "Successfully logged out",
+    "profileUpdate": "Profile updated successfully",
+    "passwordUpdate": "Password updated successfully",
+    "cartAdd": "Item added to cart",
+    "cartRemove": "Item removed from cart",
+    "orderCreate": "Order placed successfully"
+  },
+  "wishlist": {
+    "title": "My Wishlist",
+    "savedItems": "saved items",
+    "totalValue": "total value",
+    "itemsSaved": "Items Saved",
+    "inStock": "In Stock",
+    "selectAll": "Select All",
+    "addToCart": "Add to Cart",
+    "remove": "Remove",
+    "sortBy": "Sort by",
+    "sortOptions": {
+      "dateAdded": "Date Added",
+      "priceLow": "Price: Low to High",
+      "priceHigh": "Price: High to Low",
+      "name": "Name A-Z",
+      "rating": "Highest Rated"
+    },
+    "shareList": "Share List",
+    "outOfStock": "Out of Stock",
+    "adding": "Adding...",
+    "added": "Added",
+    "notifyWhenAvailable": "Notify When Available",
+    "reviews": "reviews",
+    "addedOn": "Added on",
+    "description": "Handcrafted with devotion and attention to detail, this beautiful piece brings sacred beauty to any space.",
+    "recommended": {
+      "title": "You Might Also Like",
+      "description": "Based on your saved items, we think you'll love these pieces too."
+    },
+    "empty": {
+      "title": "Your Wishlist is Empty",
+      "description": "Save items you love to purchase later. Start browsing our collection of sacred art pieces.",
+      "browseProducts": "Browse Products",
+      "returnHome": "Return Home"
+    }
+  },
+  "language": {
+    "en": "English",
+    "zh": "中文",
+    "switchLanguage": "Switch Language",
+    "currentLanguage": "Current Language",
+    "popular": "Popular"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Find answers to common questions about our sacred art pieces, orders, and services.",
+    "searchPlaceholder": "Search questions...",
+    "browseByCategory": "Browse by Category",
+    "popularQuestions": "Popular Questions",
+    "stillNeedHelp": "Still Need Help?",
+    "customerServiceDescription": "Can't find what you're looking for? Our customer service team is here to help.",
+    "contactSupport": "Contact Support",
+    "businessHours": "Mon-Fri: 9AM-6PM EST",
+    "searchResults": "Search Results",
+    "allQuestions": "All Questions",
+    "questionsFound": "questions found",
+    "forSearch": "for \"{{query}}\"",
+    "wasThisHelpful": "Was this helpful?",
+    "yes": "Yes",
+    "no": "No",
+    "noQuestionsFound": "No Questions Found",
+    "noQuestionsDescription": "We couldn't find any questions matching your search. Try different keywords or browse our categories.",
+    "viewAllQuestions": "View All Questions",
+    "askAQuestion": "Ask a Question",
+    "categories": {
+      "all": "All Questions",
+      "products": "Products & Materials",
+      "orders": "Orders & Payment",
+      "shipping": "Shipping & Delivery",
+      "care": "Care & Maintenance",
+      "custom": "Custom Orders"
+    },
+    "quickActions": {
+      "trackOrder": {
+        "title": "Track Your Order",
+        "description": "Check the status of your current orders and shipments.",
+        "button": "Track Order"
+      },
+      "careInstructions": {
+        "title": "Care Instructions",
+        "description": "Learn how to properly care for your wooden art pieces.",
+        "button": "View Care Tips"
+      },
+      "customOrders": {
+        "title": "Custom Orders",
+        "description": "Learn about our custom crafting and personalization services.",
+        "button": "Custom Info"
+      }
+    }
+  },
+  "blog": {
+    "title": "Sacred Crafts Blog",
+    "subtitle": "Stories of faith, craftsmanship, and the sacred art that brings meaning to our lives.",
+    "searchPlaceholder": "Search articles...",
+    "featuredArticles": "Featured Articles",
+    "featured": "Featured",
+    "comments": "comments",
+    "readMore": "Read More",
+    "searchResults": "Search Results",
+    "latestArticles": "Latest Articles",
+    "articlesFound": "{{count}} article{{count !== 1 ? 's' : ''}} found",
+    "forSearch": "for \"{{query}}\"",
+    "category": "Category",
+    "sortBy": "Sort by",
+    "sortOptions": {
+      "newest": "Newest",
+      "oldest": "Oldest",
+      "popular": "Most Popular"
+    },
+    "more": "more",
+    "noArticlesFound": "No Articles Found",
+    "noArticlesDescription": "We couldn't find any articles matching your search criteria. Try adjusting your filters or search terms.",
+    "viewAllArticles": "View All Articles",
+    "recentArticles": "Recent Articles",
+    "categories": "Categories",
+    "popularTags": "Popular Tags",
+    "stayUpdated": "Stay Updated",
+    "newsletterDescription": "Subscribe to our newsletter for the latest articles about faith, craftsmanship, and sacred art.",
+    "emailPlaceholder": "Your email address",
+    "subscribe": "Subscribe",
+    "privacyNotice": "We respect your privacy. Unsubscribe at any time."
+  },
+  "invoice": {
+    "title": "Invoice",
+    "subtitle": "View and manage your order invoices",
+    "back": "Back",
+    "print": "Print",
+    "printing": "Printing...",
+    "download": "Download",
+    "downloading": "Downloading...",
+    "email": "Email",
+    "sending": "Sending...",
+    "invoice": "Invoice",
+    "sacredCrafts": "Sacred Crafts",
+    "date": "Date",
+    "status": "Status",
+    "totalAmount": "Total Amount",
+    "billTo": "Bill To",
+    "paymentShipping": "Payment & Shipping",
+    "paymentMethod": "Payment Method",
+    "shippingMethod": "Shipping Method",
+    "items": "Items",
+    "item": "Item",
+    "description": "Description",
+    "quantity": "Quantity",
+    "unitPrice": "Unit Price",
+    "total": "Total",
+    "subtotal": "Subtotal",
+    "tax": "Tax",
+    "shipping": "Shipping",
+    "notes": "Notes"
+  },
+  "orderTracking": {
+    "title": "Track Your Order",
+    "subtitle": "Enter your order number or tracking number to see the latest updates on your sacred art pieces.",
+    "enterTrackingInfo": "Enter Tracking Information",
+    "orderOrTrackingNumber": "Order Number or Tracking Number",
+    "placeholder": "SC-2024-001 or TRK789456123",
+    "trackOrder": "Track Order",
+    "needHelp": "Need help?",
+    "contactSupport": "Contact our support team",
+    "orderTracking": "Order Tracking",
+    "orderNumber": "Order #{{number}}",
+    "deliveryProgress": "Delivery Progress",
+    "orderPlaced": "Order Placed",
+    "delivered": "Delivered",
+    "estimatedDelivery": "Estimated Delivery: {{date}}",
+    "onTheWay": "Your sacred art pieces are on their way!",
+    "packageInTransit": "Package In Transit",
+    "inTransitDescription": "Your order is currently being transported to your delivery address. The package was last scanned at our Sacramento facility and is expected to arrive on February 5, 2024.",
+    "lastUpdated": "Last updated: {{date}}",
+    "trackingHistory": "Tracking History",
+    "deliveryInformation": "Delivery Information",
+    "specialHandling": "Special Handling",
+    "specialHandlingDescription": "Your sacred art pieces are packaged with extra care and padding to ensure they arrive safely. A signature will be required upon delivery to ensure secure receipt.",
+    "deliveryAddress": "Delivery Address",
+    "carrierInformation": "Carrier Information",
+    "carrier": "Carrier",
+    "service": "Service",
+    "tracking": "Tracking",
+    "orderSummary": "Order Summary",
+    "qty": "Qty: {{quantity}}",
+    "subtotal": "Subtotal",
+    "shipping": "Shipping",
+    "free": "FREE",
+    "tax": "Tax",
+    "total": "Total",
+    "quickActions": "Quick Actions",
+    "downloadInvoice": "Download Invoice",
+    "shareTracking": "Share Tracking",
+    "customerServiceDescription": "Our customer service team is here to assist you with any questions about your order.",
+    "completeCollection": "Complete Your Collection",
+    "browseAllProducts": "Browse All Products"
+  }
+} 
